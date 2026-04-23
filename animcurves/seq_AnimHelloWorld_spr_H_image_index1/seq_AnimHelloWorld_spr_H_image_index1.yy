@@ -1,0 +1,15 @@
+{
+  "$GMAnimCurve":"",
+  "%Name":"seq_AnimHelloWorld_spr_H_image_index1",
+  "channels":[
+    {"$GMAnimCurveChannel":"","%Name":"index","colour":4290799884,"name":"index","points":[
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":0.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.8683484,"y":26.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":25.0,},
+      ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
+  ],
+  "function":0,
+  "name":"seq_AnimHelloWorld_spr_H_image_index1",
+  "resourceType":"GMAnimCurve",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,1 @@
+layer_sequence_create("AnimatedSprites",random_range(0,room_width-415),random_range(0,room_height-64),seq_AnimHelloWorld);

@@ -3,7 +3,10 @@
     {"name":"sprites","order":1,"path":"folders/sprites.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Image Index","order":3,"path":"animcurves/Image Index",},
+    {"name":"obj_seqEmitter","order":5,"path":"objects/obj_seqEmitter/obj_seqEmitter.yy",},
     {"name":"seq_AnimHelloWorld","order":2,"path":"sequences/seq_AnimHelloWorld/seq_AnimHelloWorld.yy",},
+    {"name":"snd_HelloWorld","order":4,"path":"sounds/snd_HelloWorld/snd_HelloWorld.yy",},
     {"name":"spr_D","order":9,"path":"sprites/spr_D/spr_D.yy",},
     {"name":"spr_E","order":1,"path":"sprites/spr_E/spr_E.yy",},
     {"name":"spr_L1","order":2,"path":"sprites/spr_L1/spr_L1.yy",},
