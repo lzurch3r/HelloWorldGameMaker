@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"randomizeRange",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"randomizeRange",
+  "parent":{
+    "name":"HelloWorld",
+    "path":"HelloWorld.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

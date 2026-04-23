@@ -1,0 +1,1 @@
+layer_sequence_create("AnimatedSprites",500,300,seq_AnimHelloWorld);

@@ -5,6 +5,7 @@
   "ResourceOrderSettings":[
     {"name":"Image Index","order":3,"path":"animcurves/Image Index",},
     {"name":"obj_seqEmitter","order":5,"path":"objects/obj_seqEmitter/obj_seqEmitter.yy",},
+    {"name":"randomizeRange","order":6,"path":"scripts/randomizeRange/randomizeRange.yy",},
     {"name":"seq_AnimHelloWorld","order":2,"path":"sequences/seq_AnimHelloWorld/seq_AnimHelloWorld.yy",},
     {"name":"snd_HelloWorld","order":4,"path":"sounds/snd_HelloWorld/snd_HelloWorld.yy",},
     {"name":"spr_D","order":9,"path":"sprites/spr_D/spr_D.yy",},

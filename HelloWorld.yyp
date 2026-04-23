@@ -24,6 +24,7 @@
     {"id":{"name":"Image Index","path":"sequences/seq_AnimHelloWorld/seq_AnimHelloWorld.yy",},},
     {"id":{"name":"obj_seqEmitter","path":"objects/obj_seqEmitter/obj_seqEmitter.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"randomizeRange","path":"scripts/randomizeRange/randomizeRange.yy",},},
     {"id":{"name":"seq_AnimHelloWorld","path":"sequences/seq_AnimHelloWorld/seq_AnimHelloWorld.yy",},},
     {"id":{"name":"snd_HelloWorld","path":"sounds/snd_HelloWorld/snd_HelloWorld.yy",},},
     {"id":{"name":"spr_D","path":"sprites/spr_D/spr_D.yy",},},
