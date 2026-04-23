@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings":[
+    {"name":"sprites","order":1,"path":"folders/sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"seq_AnimHelloWorld","order":2,"path":"sequences/seq_AnimHelloWorld/seq_AnimHelloWorld.yy",},
+    {"name":"spr_D","order":9,"path":"sprites/spr_D/spr_D.yy",},
+    {"name":"spr_E","order":1,"path":"sprites/spr_E/spr_E.yy",},
+    {"name":"spr_L1","order":2,"path":"sprites/spr_L1/spr_L1.yy",},
+    {"name":"spr_L2","order":3,"path":"sprites/spr_L2/spr_L2.yy",},
+    {"name":"spr_L3","order":6,"path":"sprites/spr_L3/spr_L3.yy",},
+    {"name":"spr_O1","order":4,"path":"sprites/spr_O1/spr_O1.yy",},
+    {"name":"spr_O2","order":10,"path":"sprites/spr_O2/spr_O2.yy",},
+    {"name":"spr_R","order":7,"path":"sprites/spr_R/spr_R.yy",},
+    {"name":"spr_W","order":8,"path":"sprites/spr_W/spr_W.yy",},
+  ],
+}
