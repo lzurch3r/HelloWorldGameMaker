@@ -6,12 +6,7 @@ A program created using GameMaker that prompts the user to press a key to start 
 
 Steps to build and/or run the software:
 
-1. Open the "HelloWorld" [GitHub](https://github.com/lzurch3r/HelloWorldGameMaker) page.
-2. Locate the green button labeled "Code" and click it.
-3. From the dropdown menu, click Download ZIP.
-4. Save the ZIP file and extract the files to anyplace on your computer.
-5. Navigate to the folder you extracted the downloaded files to.
-6. Click on "HelloWorld.exe" to boot the software.
+1. Click on "HelloWorld.exe" to boot the software.
 
 
 
