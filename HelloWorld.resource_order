@@ -3,8 +3,9 @@
     {"name":"sprites","order":1,"path":"folders/sprites.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"Image Index","order":3,"path":"animcurves/Image Index",},
+    {"name":"obj_mouseClicker","order":7,"path":"objects/obj_mouseClicker/obj_mouseClicker.yy",},
     {"name":"obj_seqEmitter","order":5,"path":"objects/obj_seqEmitter/obj_seqEmitter.yy",},
+    {"name":"rm_startScreen","order":8,"path":"rooms/rm_startScreen/rm_startScreen.yy",},
     {"name":"randomizeRange","order":6,"path":"scripts/randomizeRange/randomizeRange.yy",},
     {"name":"seq_AnimHelloWorld","order":2,"path":"sequences/seq_AnimHelloWorld/seq_AnimHelloWorld.yy",},
     {"name":"snd_HelloWorld","order":4,"path":"sounds/snd_HelloWorld/snd_HelloWorld.yy",},

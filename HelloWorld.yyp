@@ -22,8 +22,10 @@
   "name":"HelloWorld",
   "resources":[
     {"id":{"name":"Image Index","path":"sequences/seq_AnimHelloWorld/seq_AnimHelloWorld.yy",},},
+    {"id":{"name":"obj_mouseClicker","path":"objects/obj_mouseClicker/obj_mouseClicker.yy",},},
     {"id":{"name":"obj_seqEmitter","path":"objects/obj_seqEmitter/obj_seqEmitter.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"rm_playAnimHelloWorld","path":"rooms/rm_playAnimHelloWorld/rm_playAnimHelloWorld.yy",},},
+    {"id":{"name":"rm_startScreen","path":"rooms/rm_startScreen/rm_startScreen.yy",},},
     {"id":{"name":"randomizeRange","path":"scripts/randomizeRange/randomizeRange.yy",},},
     {"id":{"name":"seq_AnimHelloWorld","path":"sequences/seq_AnimHelloWorld/seq_AnimHelloWorld.yy",},},
     {"id":{"name":"snd_HelloWorld","path":"sounds/snd_HelloWorld/snd_HelloWorld.yy",},},
@@ -41,7 +43,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_startScreen","path":"rooms/rm_startScreen/rm_startScreen.yy",},},
+    {"roomId":{"name":"rm_playAnimHelloWorld","path":"rooms/rm_playAnimHelloWorld/rm_playAnimHelloWorld.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
