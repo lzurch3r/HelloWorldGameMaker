@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_mouseClicker",
+  "%Name":"obj_keyPresser",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":13,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_mouseClicker",
+  "name":"obj_keyPresser",
   "overriddenProperties":[],
   "parent":{
     "name":"HelloWorld",

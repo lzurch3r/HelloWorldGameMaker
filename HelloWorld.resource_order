@@ -3,11 +3,10 @@
     {"name":"sprites","order":1,"path":"folders/sprites.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"obj_mouseClicker","order":7,"path":"objects/obj_mouseClicker/obj_mouseClicker.yy",},
+    {"name":"obj_keyPresser","order":7,"path":"objects/obj_keyPresser/obj_keyPresser.yy",},
     {"name":"obj_seqEmitter","order":5,"path":"objects/obj_seqEmitter/obj_seqEmitter.yy",},
     {"name":"rm_startScreen","order":8,"path":"rooms/rm_startScreen/rm_startScreen.yy",},
     {"name":"randomizeRange","order":6,"path":"scripts/randomizeRange/randomizeRange.yy",},
-    {"name":"seq_AnimPressKey_Events2","order":10,"path":"scripts/seq_AnimPressKey_Events2/seq_AnimPressKey_Events2.yy",},
     {"name":"seq_AnimHelloWorld","order":2,"path":"sequences/seq_AnimHelloWorld/seq_AnimHelloWorld.yy",},
     {"name":"seq_AnimPressKey","order":9,"path":"sequences/seq_AnimPressKey/seq_AnimPressKey.yy",},
     {"name":"snd_HelloWorld","order":4,"path":"sounds/snd_HelloWorld/snd_HelloWorld.yy",},

@@ -14,10 +14,7 @@
     "resourceType":"KeyframeStore<MessageEventKeyframe>",
     "resourceVersion":"2.0",
   },
-  "eventStubScript":{
-    "name":"seq_AnimPressKey_Events2",
-    "path":"scripts/seq_AnimPressKey_Events2/seq_AnimPressKey_Events2.yy",
-  },
+  "eventStubScript":null,
   "eventToFunction":{},
   "length":8.0,
   "lockOrigin":false,
