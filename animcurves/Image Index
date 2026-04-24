@@ -3,12 +3,13 @@
   "%Name":"Image Index",
   "channels":[
     {"$GMAnimCurveChannel":"","%Name":"index","colour":4290799884,"name":"index","points":[
-        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.0,"y":0.0,},
-        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.87412584,"y":25.0,},
-        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":1.0,"y":25.0,},
+        {"th0":-0.1,"th1":0.1,"tv0":0.0,"tv1":0.0,"x":0.0,"y":0.0,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.38886636,"y":29.184631,},
+        {"th0":1.0,"th1":-1.0,"tv0":0.0,"tv1":0.0,"x":0.6098553,"y":29.184631,},
+        {"th0":-0.1,"th1":0.1,"tv0":0.0,"tv1":0.0,"x":1.0,"y":0.0,},
       ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
   ],
-  "function":0,
+  "function":1,
   "name":"Image Index",
   "resourceType":"GMAnimCurve",
   "resourceVersion":"2.0",
