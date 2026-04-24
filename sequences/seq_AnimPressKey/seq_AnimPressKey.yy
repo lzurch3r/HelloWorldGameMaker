@@ -19,7 +19,7 @@
     "path":"scripts/seq_AnimPressKey_Events2/seq_AnimPressKey_Events2.yy",
   },
   "eventToFunction":{},
-  "length":60.0,
+  "length":8.0,
   "lockOrigin":false,
   "moments":{
     "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -37,8 +37,6 @@
   "playbackSpeedType":0,
   "resourceType":"GMSequence",
   "resourceVersion":"2.0",
-  "seqHeight":768.0,
-  "seqWidth":1366.0,
   "showBackdrop":true,
   "showBackdropImage":false,
   "spriteId":null,
